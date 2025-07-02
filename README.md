@@ -76,7 +76,3 @@ This app is intended for personal use only. No support is provided.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-```vbnet
-This text is ready to be copied into your `README.md` file. It covers all the essential details about your project, including how to install, test, build, and use PassForge.
-```
